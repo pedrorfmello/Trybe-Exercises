@@ -1,0 +1,15 @@
+*{
+  font-family: 'Georgia', serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  background-color: brown;
+  padding: 10px;
+}
