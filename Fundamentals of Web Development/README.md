@@ -7,9 +7,9 @@
 
 ### Block 2: Git & GitHub and the Internet
 
-- [ ] 2-1: _Git & GitHub - What it is and what it's for_
-- [ ] 2-2: _Git & GitHub - Understanding the commands_
-- [ ] 2-3: _Internet - Understanding how it works_
+- [x] 2-1: _Git & GitHub - What it is and what it's for_
+- [x] 2-2: _Git & GitHub - Understanding the commands_
+- [x] 2-3: _Internet - Understanding how it works_
 
 ### Block 3: Introduction - HTML & CSS
 
