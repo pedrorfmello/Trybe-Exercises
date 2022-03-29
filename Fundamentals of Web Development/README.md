@@ -1,8 +1,8 @@
 ### Block 1: Introduction - Unix & Shell
 
-- [ ] 1-3: _Foundations of Web Development_
-- [ ] 1-3: _Introduction - Unix & Shell_
-- [ ] 1-3: _Unix & Shell- Part 1_
+- [x] 1-3: _Foundations of Web Development_
+- [x] 1-3: _Introduction - Unix & Shell_
+- [x] 1-3: _Unix & Shell- Part 1_
 - [ ] 1-4: _Unix & Shell- Part 2_
 
 ### Block 2: Git & GitHub and the Internet
