@@ -1,4 +1,4 @@
-# Trybe
+<img width="100%" src="https://user-images.githubusercontent.com/857574/160707020-3eef6d46-bb2d-456f-a098-2495f31cfc6b.png" alt="Trybe Logo">
 
 This repository contains all the learning activities developed by _["Pedro Mello"]("https://www.linkedin.com/in/pedro-rfmello/")_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
